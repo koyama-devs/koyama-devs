@@ -6,11 +6,11 @@ Welcome to my GitHub profile. I'm a software engineer with a passion for buildin
 
 ## 🔧 Technologies & Tools
 
-- 🔹 Languages: JavaScript, TypeScript, Python, Java, C++, Outsystems(Low-code)
+- 🔹 Languages: JavaScript, TypeScript, Python, Java, C++
 - 🔹 Frontend: React, Vite, HTML/CSS
 - 🔹 Backend: Node.js, Spring Boot, Django
 - 🔹 Tools: Git, GitHub, VSCode, Eclipse, Visual Studio, Service Studio, Postman,...
-- 🔹 Platforms: Firebase, Supabase, Linux, Docker
+- 🔹 Platforms: Firebase, Outsystems(Low-code), WordPress
 
 ---
 
@@ -18,7 +18,7 @@ Welcome to my GitHub profile. I'm a software engineer with a passion for buildin
 
 - 🔸 Building product-oriented apps using React/Vite
 - 🔸 Learning clean architecture and testing
-- 🔸 Exploring Firebase/Supabase as backend solutions
+- 🔸 Exploring Firebase as backend solutions
 - 🔸 Writing better technical documentation
 
 ---
