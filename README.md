@@ -32,6 +32,8 @@ Welcome to my GitHub profile. I'm a software engineer with a passion for buildin
 | 🏨 [Velana Hotel Booking] | Internal hotel booking management system with room scheduling, guest profiles, and availability calendar | OutSystems |
 | 🧩 **AppStoreX** | A web platform to upload and download multi-platform mobile apps (iOS, Android, Blackberry, Windows Phone, Java). Also supports digital content such as ebooks and comics. | Python, Django |
 | 🛍️ **ECommerceWeb** | A full-featured e-commerce website with product catalog, search/filter, shopping cart, and user accounts. Designed to scale for real businesses. | React, Vite, Firebase |
+| 🌐 LX Techno Company Website(https://lxtechno.com) | Corporate website for LXTechno with service introduction and company profile | React, Vite, Firebase |
+| 🌐 AOITEX Company Website(https://aoitex.com) | Technology company website showcasing services, solutions, and IT expertise | React, Vite, Firebase |
 
 ---
 
