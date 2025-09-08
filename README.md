@@ -27,13 +27,12 @@ Welcome to my GitHub profile. I'm a software engineer with a passion for buildin
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| 🛒 [Simple Shop Creator](https://github.com/koyama-devs/simple-shop) | Platform to help Vietnamese sellers in Japan build simple online shops | React, Firebase |
-| 🍚 [Meal Tracker for Kids](https://github.com/koyama-devs/baby-meal-tracker) | Tool to track spoon counts per meal for toddlers | OutSystems |
-| 🏨 [Velana Hotel Booking] | Internal hotel booking management system with room scheduling, guest profiles, and availability calendar | OutSystems |
-| 🧩 **AppStoreX** | A web platform to upload and download multi-platform mobile apps (iOS, Android, Blackberry, Windows Phone, Java). Also supports digital content such as ebooks and comics. | Python, Django |
+| 🍚 **Meal Tracker for Kids** | Tool to track spoon counts per meal for toddlers | OutSystems |
+| 🏨 **Velana Hotel Booking** | Internal hotel booking management system with room scheduling, guest profiles, and availability calendar | OutSystems |
+| 🧩 [**AppStoreX**]([https://lxtechno.com](https://github.com/koyama-devs/appstorex_web)) | A web platform to upload and download multi-platform mobile apps (iOS, Android, Blackberry, Windows Phone, Java). Also supports digital content such as ebooks and comics. | Python, Django |
 | 🛍️ **ECommerceWeb** | A full-featured e-commerce website with product catalog, search/filter, shopping cart, and user accounts. Designed to scale for real businesses. | React, Vite, Firebase |
-| 🌐 LX Techno Company Website(https://lxtechno.com) | Corporate website for LXTechno with service introduction and company profile | React, Vite, Firebase |
-| 🌐 AOITEX Company Website(https://aoitex.com) | Technology company website showcasing services, solutions, and IT expertise | React, Vite, Firebase |
+| 🌐 [**LX Techno Company Website**](https://lxtechno.com) | Corporate website for LXTechno with service introduction and company profile | React, Vite, Firebase |
+| 🌐 [**AOITEX Company Website**](https://aoitex.com) | Technology company website showcasing services, solutions, and IT expertise | React, Vite, Firebase |
 
 ---
 
