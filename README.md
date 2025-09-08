@@ -38,7 +38,7 @@ Welcome to my GitHub profile. I'm a software engineer with a passion for buildin
 
 ## 🌱 About Me
 
-- 📍 Based in Japan
+- 📍 Based in Vietnam (previously in Japan, currently focusing on building long-term career opportunities in Vietnam)
 - 🧠 Quick learner, product-first mindset
 - 🗣️ Interested in working in diverse, professional tech environments
 - 🎯 10+ years in IT, 8+ years as a BRSE (Bridge Engineer)
